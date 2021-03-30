@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="104" viewBox="0 0 242 104">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #284596;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 36px;
+        font-family: Montserrat-Black, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: #fb0;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-67 -18)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M0,0H242V104H0Z" transform="translate(67 18)"/>
+    <text id="mocknews" class="cls-2" transform="translate(188 69)"><tspan x="-106.974" y="0">mocknews</tspan></text>
+    <text id="mocknews-2" data-name="mocknews" class="cls-3" transform="matrix(1, 0, 0, -1, 188, 71)"><tspan x="-106.974" y="0">mocknews</tspan></text>
+  </g>
+</svg>
