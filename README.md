@@ -1,5 +1,5 @@
-# Tech News
 # szo.design@tutanota.com
+# Tech News
 
  - When the page opens for the first time in a browser - and only for the first time(!) - the user is redirected to a landing page.
  - No image or third party library is used.
