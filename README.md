@@ -12,5 +12,4 @@
 
  - When the user scrolls down to the oldest news, the app fetches the backend for older articles.
  - The newest article is always on the top, in a highlighted position.
- ![Bejelentkezés](https://user-images.githubusercontent.com/48241538/116900900-93570880-ac39-11eb-9b87-70622b5842b2.png)
-- When the new news are being fetched, a loading mask is presented.
+ - When the new news are being fetched, a loading mask is presented.
