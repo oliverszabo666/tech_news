@@ -13,3 +13,15 @@
  - When the user scrolls down to the oldest news, the app fetches the backend for older articles.
  - The newest article is always on the top, in a highlighted position.
  - When the new news are being fetched, a loading mask is presented.
+
+
+
+# Landing Page - Text Animation
+It looks kinda sketchy on a screenshot.
+![mocknews1](https://user-images.githubusercontent.com/48241538/116901888-c1891800-ac3a-11eb-8b8d-4d4456e74686.png)
+
+# Article
+This is how an article is structured. the API we used did not contain the proper data for the whole article, but with the button you could extend it to read it further.
+![mocknews2](https://user-images.githubusercontent.com/48241538/116902095-057c1d00-ac3b-11eb-89d6-555b20d2c1de.png)
+
+
